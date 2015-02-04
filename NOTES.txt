@@ -1,0 +1,2 @@
+cool code to work with GISTs
+https://github.com/jondot/logbook/blob/master/lib/gist_store/gist.rb

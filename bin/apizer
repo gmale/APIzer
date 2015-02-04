@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'apizer'
+
+Apizer::CLI.start(ARGV)

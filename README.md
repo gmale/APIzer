@@ -8,3 +8,5 @@ Admittedly, I'm finally tired of ZSH scripts. A modern programming language like
 
 #### Objective
 **I am not a Ruby guy.** Currently, I don't even know Ruby. So this repo serves as an exploratory tool to facilitate my daily needs while browsing APIs and also to learn ruby/Thor along the way. Two birds. One stone.
+
+I have no intention of keeping this code neat. Instead, I want to be comfortable writing quick hacks, while my hair is on fire, if need be. So this code will probably only ever be good for personal use.
